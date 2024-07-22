@@ -5,7 +5,6 @@ export default function Home() {
 	return (
 		<main>
 			<Button>Click Me</Button>
-			<ModeToggle />
 		</main>
 	);
 }
